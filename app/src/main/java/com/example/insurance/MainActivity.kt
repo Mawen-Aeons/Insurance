@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemClickListener {
 
         if(gender == R.id.radioMale){
             //TODO : calculate premium for male
-            
+
         }
 
         if(checkBoxSmoker.isChecked){
